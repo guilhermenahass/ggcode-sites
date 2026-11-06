@@ -4,10 +4,19 @@
 
 Cada site parte de uma ideia própria, ligada ao negócio do cliente, em vez de um template. O processo inclui SEO técnico e GEO (otimização para aparecer em respostas de IA), conferidos pela minha [skill de SEO + GEO para Claude Code](https://github.com/guilhermenahass/seo-geo-skill).
 
+| Site | Segmento | Auditoria de SEO (nov/2026) |
+|---|---|---|
+| [almeidatavares.com](https://www.almeidatavares.com) | Advocacia empresarial, São Paulo | ✅ 0 erros |
+| [renatakouryem.com](https://renatakouryem.com) | Escola de música, Sorocaba | ✅ 0 erros |
+| [drmarcelofranco.com.br](https://drmarcelofranco.com.br) | Urologista, Rio de Janeiro | ✅ 0 erros |
+| [ibanhezservicosind.com](https://ibanhezservicosind.com) | Manutenção industrial, região de Sorocaba | ✅ 0 erros |
+| [M4 Cafés](https://darkslateblue-peafowl-131308.hostingersite.com/) | Café especial B2B, Sul de Minas | ✅ 0 erros |
+| [ggc0de.com](https://ggc0de.com) | A própria agência | 1 aviso de endereço (agência sem loja física) |
+
 ## No ar
 
 ### Almeida Tavares e Silva · Sociedade de Advogados
-**[almeidatavares.com](https://almeidatavares.com)** · escritório de advocacia empresarial em São Paulo
+**[almeidatavares.com](https://www.almeidatavares.com)** · escritório de advocacia empresarial em São Paulo
 
 ![ATS Advogados](img/ats.jpg)
 
@@ -40,14 +49,21 @@ Cada site parte de uma ideia própria, ligada ao negócio do cliente, em vez de 
 
 - **Ideia:** "O site se constrói". O código da página aparece sendo escrito no fundo, com animação em three.js, e o botão "Ver o esqueleto" mostra a estrutura por trás do design.
 
-## Em publicação
-
 ### Ibanhez Serviços Industriais
-Manutenção industrial, bases de reservatório e içamento de tanques em Capela do Alto (SP). Cliente com plano mensal.
+**[ibanhezservicosind.com](https://ibanhezservicosind.com)** · manutenção industrial, bases de reservatório e içamento de tanques, região de Sorocaba (SP)
 
 ![Ibanhez](img/ibanhez.jpg)
 
 - **Ideia:** "Zarcão & Aço", com as cores do primer anticorrosivo e do metal da indústria pesada, e pedido de orçamento direto no WhatsApp.
+- Cliente com plano mensal de manutenção.
+
+### M4 Cafés
+**[M4 Cafés](https://darkslateblue-peafowl-131308.hostingersite.com/)** · café especial premiado da Fazenda da Onça (Sul de Minas) para cafeterias, padarias e escritórios. O domínio próprio está a caminho.
+
+![M4 Cafés](img/m4-cafes.jpg)
+
+- **Ideia:** "da fazenda para o seu balcão". O site leva o comprador B2B do cafezal à xícara, passando pelos cafés, pela fazenda, pela história da família e pelos prêmios.
+- Orçamento direto no WhatsApp.
 
 ## Como trabalho
 
