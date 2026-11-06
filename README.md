@@ -2,7 +2,7 @@
 
 **Portfólio de sites que criei para clientes da GG Code, minha agência de soluções digitais em Sorocaba (SP).**
 
-Cada site parte de uma ideia própria, ligada ao negócio do cliente, em vez de um template. Todos saem com SEO técnico e GEO (otimização para aparecer em respostas de IA) aplicados pela minha [skill de SEO + GEO para Claude Code](https://github.com/guilhermenahass/seo-geo-skill).
+Cada site parte de uma ideia própria, ligada ao negócio do cliente, em vez de um template. O processo inclui SEO técnico e GEO (otimização para aparecer em respostas de IA), conferidos pela minha [skill de SEO + GEO para Claude Code](https://github.com/guilhermenahass/seo-geo-skill).
 
 ## No ar
 
